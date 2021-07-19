@@ -13,4 +13,4 @@ the "exception" program : it calls the child, registers a Mach port to receive t
 ## Sources and acknowledgments
 The "heart" of the program comes from jailbreak techniques. This was a test to try it on Mac first.
 
-Thanks to [@K0stad1n](https://github.com/K0stad1n) for making this porgram work both on Intel and M1 thanks to the pre-processor condition ! It's usefull, so that you don't have to care about your architecture. Just compile !
+Thanks to [@K0stad1n](https://github.com/K0stad1n) for making this porgram work both on Intel and M1 thanks to the pre-processor condition ! It's useful, so that you don't have to care about your architecture. Just compile !
